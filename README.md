@@ -15,7 +15,7 @@ No screen limit. You die if you hit yourself or the other player.
 Clone the repository, open the snakedome folder on your terminal and type:
 
 ```bash
-ruby lib/game.br
+ruby lib/game.rb
 ```
 
 ### Feedback and Suggestions
